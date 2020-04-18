@@ -8,7 +8,7 @@ import album
 
 from html_format import Tag, HTML, TopLevelTag
 
-START="/start"
+START="/"
 ALBUMS="/albums"
 
 @route(START)
